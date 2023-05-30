@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "speck_cipher",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    }
+  ],
+  "generated": "2023-05-30T06:10:35.309641Z",
+  "generator": "pub",
+  "generatorVersion": "3.0.2"
+}
